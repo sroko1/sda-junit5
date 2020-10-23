@@ -4,7 +4,7 @@ public class Calculator {
 
     public static void main(String[] args) {
         Calculator calculator = new Calculator();
-        System.out.println("1 + 2 = " + calculator.add(1, 2));
+        System.out.println("1 + 3 = " + calculator.add(1, 3));
         System.out.println("1 - 2 = " + calculator.subtract(1, 2));
     }
 
